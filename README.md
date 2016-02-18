@@ -1,2 +1,2 @@
 # PAPER
-Protocol for Academic Publishing &amp; Extensible Research
+PAPER is a Protocol for Academic Publishing &amp; Extensible Research. 
